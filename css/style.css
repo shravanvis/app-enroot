@@ -83,7 +83,7 @@ color: #fff;
 width: 69px;
 height: 2px;
 margin: 0px auto;
-background:#ff3d00;
+background:#DB305C;
 }
 .title-sub p,.right-abut-agile-txt p,.abut-text-wthree p,.ser-text-wthree p,.news-agile-text p,.footer-office-hour p,.footer-office-hour ul li span{
 font-size: 14px;
@@ -93,7 +93,7 @@ letter-spacing:1px
 }
 .abut-text-wthree h4,.ser-text-wthree h4,.team-app-info h4,.news-agile-text h4,.dance-agile-info h4{
 font-size: 22px;
-color:#ff3d00;
+color:#DB305C;
 text-transform: capitalize;
 }
 /*--Background Colors--*/
@@ -123,7 +123,7 @@ font-weight: 600;
 letter-spacing: 2px;
 }
 .hedder-logo h1 a span {
-color:#ff3d00;
+color:#DB305C;
 }
 /*-- menu-navigation --*/
 nav {
@@ -144,7 +144,7 @@ padding-top: 4em;
 box-shadow:-3px 6px 17px 0px #040404;
 }
 #menuToggle {
-background:#ff3d00;
+background:#DB305C;
 display: block;
 position: fixed;
 height: 40px;
@@ -179,7 +179,7 @@ width: 100%;
 }
 #menuToggle span:after { top: 250%; }
 nav a {
-color:#ff3d00;
+color:#DB305C;
 display: block;
 font-size: 1.3em;
 margin: 30px 0 30px 30px;
@@ -187,7 +187,7 @@ font-weight:500;
 letter-spacing: 1px;
 }
 nav a:after {
-background:#ff3d00;
+background:#DB305C;
 content: '';
 display: block;
 height: 2px;
@@ -415,11 +415,11 @@ text-decoration: none;
 text-transform: uppercase;
 display: inline-block;
 letter-spacing: 2px;
-background-color: #ff3d00;
+background-color: #DB305C;
 outline: none;
 padding: 13px 18px;
 border-radius: 5px;
-border: 1px solid #ff3d00;
+border: 1px solid #DB305C;
 }
 .callbacks_nav {
 position: absolute;
@@ -449,60 +449,11 @@ right: 0;
 .callbacks_nav.next {
 background-size:40px;
 }
-/*#slider3-pager a {
-display: inline-block;
-}
-#slider3-pager img {
-float: left;
-}
-#slider3-pager .rslides_here a {
-background: transparent;
-box-shadow: 0 0 0 2px #666;
-}
-#slider3-pager a {
-padding: 0;
-}*/
-/*--pager--*/
-/*.callbacks_tabs {
-list-style: none;
-position: absolute;
-padding: 0;
-bottom: 228px;
-right: 41%;
-margin: 0;
-z-index: 9;
-display: block;
-text-align: center;
-}
-.callbacks_tabs li {
-display: inline-block;
-margin: 0px 2px 0px;
-}
-.callbacks_tabs a {
-visibility: hidden;
-}
-.callbacks_tabs a:after {
-content: "\f111";
-font-size: 0;
-font-family: FontAwesome;
-visibility: visible;
-display: block;
-width: 21px;
-height: 21px;
-display: inline-block;
-background:#d24055;
-border: none;
-border-radius: 50%;
-}
-.callbacks_here a:after {
-background: #fff;
-border: 4px solid #d24055;
-}*/
 /*-- //banner --*/
 /*-- about --*/
 .right-abut-agile-txt h2 {
 font-size: 29px;
-color:#ff3d00;
+color:#DB305C;
 }
 .about-agile-icon  span ,.banner-icon span{
 font-size: 43px;
@@ -532,13 +483,13 @@ letter-spacing: 1px;
 .stat-info h5 {
 font-size: 25px;
 line-height: 33px;
-color:#ff3d00;
+color:#DB305C;
 text-transform: uppercase;
 }
 /*-- //counter --*/
 /*--Services --*/
 .ser-icon:hover span {
-color:#ff3d00;
+color:#DB305C;
 }
 /*-- //Services --*/
 /*--fun-facts --*/
@@ -571,7 +522,7 @@ height: 37px;
 line-height: 35px;
 text-align: center;
 margin: 0px 3px;
-color:#ff3d00;
+color:#DB305C;
 transition: 0.5s all;
 -webkit-transition: 0.5s all;
 transition: 0.5s all;
@@ -591,7 +542,7 @@ display: block;
 color: #000;
 }
 .customer-rev ul li span {
-color:#ff3d00;
+color:#DB305C;
 font-size:12px;
 }
 .carousel-indicators li {
@@ -603,7 +554,7 @@ margin-left: 5px;
 background:#000;
 }
 .carousel-indicators .active {
-background-color:#ff3d00;
+background-color:#DB305C;
 width:9px;
 height: 9px;
 }
@@ -657,7 +608,7 @@ color: #fff;
 font-weight: 600;
 text-transform: uppercase;
 margin-top: 1em;
-background: #ff3d00;
+background: #DB305C;
 transition: 0.5s all;
 -webkit-transition: 0.5s all;
 transition: 0.5s all;
@@ -711,7 +662,7 @@ color: #fff;
 border: 1px solid #000;
 padding: 11.5px 0;
 font-size: 16px;
-background: #ff3d00;
+background: #DB305C;
 -webkit-transition: 0.5s all;
 -moz-transition: 0.5s all;
 -o-transition: 0.5s all;
@@ -725,7 +676,7 @@ color: #000;
 letter-spacing: 2px;
 }
 footer p a {
-color:#ff3d00;
+color: #DB305C;
 }
 footer p a:hover {
 color:#000;
